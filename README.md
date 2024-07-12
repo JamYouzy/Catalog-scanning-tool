@@ -1,4 +1,4 @@
-# Catalog-scanning-tool
+`# Catalog-scanning-tool
 
 好的，下面是使用中文编写的README文件：
 
@@ -12,14 +12,14 @@
 安装
 克隆仓库：
 
-sh
+
 复制代码
 git clone https://github.com/yourusername/catalog-scanning-tool.git
 cd catalog-scanning-tool
 安装依赖项：
 确保你已经安装了Python。你可以使用以下命令安装所需的包：
 
-sh
+
 复制代码
 pip install requests tqdm
 使用方法
@@ -28,7 +28,7 @@ pip install requests tqdm
 创建一个文本文件，包含要扫描的URL路径，每行一个。
 运行扫描工具：
 
-sh
+
 复制代码
 python Catalog\ scanning\ tool.py
 脚本会提示你输入字典文件的路径和要扫描的基础URL。
@@ -38,19 +38,18 @@ python Catalog\ scanning\ tool.py
 示例
 创建字典文件：
 
-sh
+
 复制代码
 echo "/path1" >> dict.txt
 echo "/path2" >> dict.txt
 echo "/path3" >> dict.txt
 运行工具：
 
-sh
+
 复制代码
 python Catalog\ scanning\ tool.py
 当提示时，输入字典文件的路径和基础URL：
 
-arduino
 复制代码
 请输入字典文件路径（含文件名）：dict.txt
 请输入需要扫描的URL（含协议）：http://example.com
