@@ -54,11 +54,6 @@ python Catalog\ scanning\ tool.py
 查看输出结果：
 
 打开url_go.txt文件查看有效的URL列表。
-贡献
-欢迎贡献！如有任何改进或建议，请打开一个issue或提交一个pull request。
-
-许可证
-这个项目是基于MIT许可证的。详情请参阅LICENSE文件。
 
 作者
 Yuu_z
